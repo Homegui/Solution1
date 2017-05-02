@@ -1,0 +1,9 @@
+c:\users\jose.guilherme\documents\visual studio 2015\Projects\Solution1\Apresentacao\bin\Debug\Apresentacao.exe.config
+c:\users\jose.guilherme\documents\visual studio 2015\Projects\Solution1\Apresentacao\bin\Debug\Apresentacao.exe
+c:\users\jose.guilherme\documents\visual studio 2015\Projects\Solution1\Apresentacao\bin\Debug\Apresentacao.pdb
+c:\users\jose.guilherme\documents\visual studio 2015\Projects\Solution1\Apresentacao\obj\Debug\Apresentacao.csprojResolveAssemblyReference.cache
+c:\users\jose.guilherme\documents\visual studio 2015\Projects\Solution1\Apresentacao\obj\Debug\Apresentacao.Properties.Resources.resources
+c:\users\jose.guilherme\documents\visual studio 2015\Projects\Solution1\Apresentacao\obj\Debug\Apresentacao.csproj.GenerateResource.Cache
+c:\users\jose.guilherme\documents\visual studio 2015\Projects\Solution1\Apresentacao\obj\Debug\Apresentacao.exe
+c:\users\jose.guilherme\documents\visual studio 2015\Projects\Solution1\Apresentacao\obj\Debug\Apresentacao.pdb
+c:\users\jose.guilherme\documents\visual studio 2015\Projects\Solution1\Apresentacao\obj\Debug\Apresentacao.FrmProduto.resources
